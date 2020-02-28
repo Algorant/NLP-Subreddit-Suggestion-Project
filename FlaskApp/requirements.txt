@@ -1,0 +1,5 @@
+Flask
+pipenv
+praw
+pandas
+python-dotenv
